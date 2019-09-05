@@ -6,8 +6,6 @@ import org.testng.annotations.Test;
 @Test(groups = "stu")
 public class Groupsonclass1 {
 
-
-
     public void stu1(){
         System.out.println("class1 stu1 run!!!");
     }
